@@ -1183,7 +1183,7 @@ table-hover tbody tr.info:hover > td { background-color: #c4e3f3; }
 }
 
 @media screen and (max-width: 915px) {
-	#main-nav { float: none; margin: 50px 0 0 -20px; }
+	#main-nav { float: none; margin: 40px 0 0 -20px; }
 	#main-nav li a { padding: 15px 20px; }
 
 	.profile { border-bottom: 1px solid #ddd8cf; float: none; margin-bottom: 30px; padding-bottom: 20px; width: auto; }
